@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ProductCatalog>
+<!-- Smart Door Locks Catalog with Eufy,Miumaelv,Teeho -->
+    <SmartDoorlocksCatalog>
+        <sdl id="Eufy">
+            <name>Eufy</name>
+            <price>129.99</price>
+            <image>eufy.webp</image>
+            <manufacturer>Eufy</manufacturer>
+            <condition>New</condition>
+            <discount>5.0</discount>
+        </sdl>
+        <sdl id="Miumaelv">
+            <name>Miumaelv</name>
+            <price>358.99</price>
+            <image>Miumaelv.webp</image>
+            <manufacturer>Miumaelv</manufacturer>
+            <condition>New</condition>
+            <discount>5.0</discount>
+        </sdl>
+        <sdl id="TEEHO">
+            <name>Teeho</name>
+            <price>249.99</price>
+            <image>TEEHO.webp</image>
+            <manufacturer>TEEHO</manufacturer>
+            <condition>New</condition>
+            <discount>5.0</discount>
+        </sdl>
+    </SmartDoorlocksCatalog>
+
+<SmartLightingsCatalog>
+        <sl id="Feit">
+            <name>Feit</name>
+            <price>1199.99</price>
+            <image>feit.webp</image>
+            <manufacturer>Feit</manufacturer>
+            <condition>New</condition>
+            <discount>5.0</discount>
+        </sl>
+        <sl id="FLSNT">
+            <name>FLSNT</name>
+            <price>1199.99</price>
+            <image>FLSNT.webp</image>
+            <manufacturer>FLSNT</manufacturer>
+            <condition>New</condition>
+            <discount>5.0</discount>
+        </sl>
+        <sl id="GE">
+            <name>GE</name>
+            <price>1199.99</price>
+            <image>GE CYNC.webp</image>
+            <manufacturer>GE</manufacturer>
+            <condition>New</condition>
+            <discount>5.0</discount>
+        </sl>
+    </SmartLightingsCatalog>
+
+<SmartDoorbellsCatalog>
+        <wt id="Andoe">
+           <name>Andoe</name>
+            <price>229.99</price>
+            <image>andoe.webp</image>
+            <manufacturer>Andoe</manufacturer>
+            <condition>New</condition>
+            <discount>5.0</discount> 
+        </wt>
+        <wt id="Anker">
+           <name>Anker</name>
+            <price>189.99</price>
+            <image>anker eufy.webp</image>
+            <manufacturer>Anker</manufacturer>
+            <condition>New</condition>
+            <discount>5.0</discount> 
+        </wt>
+        <wt id="kiplyki">
+           <name>kiplyki</name>
+            <price>167.99</price>
+            <image>kiplyki.webp</image>
+            <manufacturer>Simplisafe</manufacturer>
+            <condition>New</condition>
+            <discount>5.0</discount> 
+        </wt>
+    </SmartDoorbellsCatalog>
+
+    <SmartThermostatCatalog>
+        <smttherm id="Honeywell">
+           <name>Honeywell</name>
+            <price>167.99</price>
+            <image>honeywell.webp</image>
+            <manufacturer>Honeywell</manufacturer>
+            <condition>New</condition>
+            <discount>5.0</discount>
+        </smttherm>
+        <smttherm id="Vine">
+           <name>Vine</name>
+            <price>167.99</price>
+            <image>Vine.webp</image>
+            <manufacturer>Vine</manufacturer>
+            <condition>New</condition>
+            <discount>5.0</discount>
+        </smttherm>
+        <smttherm id="Wyze">
+           <name>Wyze</name>
+            <price>167.99</price>
+            <image>Wyze.webp</image>
+            <manufacturer>Wyze</manufacturer>
+            <condition>New</condition>
+            <discount>5.0</discount> 
+        </smttherm>
+    </SmartThermostatCatalog>
+
+    <SmartSpeakerCatalog>
+        <va id="AGPtek">
+            <name>AGPtek</name>
+            <price>99.99</price>
+            <image>AGPtek.webp</image>
+            <manufacturer>AGPtek</manufacturer>
+            <condition>New</condition>
+            <discount>5.0</discount> 
+        </va>
+        <va id="MegaBass">
+            <name>MegaBass</name>
+            <price>119.99</price>
+            <image>MegaBass.webp</image>
+            <manufacturer>MegaBass</manufacturer>
+            <condition>New</condition>
+            <discount>5.0</discount> 
+        </va>
+        <va id="Tikitune">
+            <name>Tikitune</name>
+            <price>149.99</price>
+            <image>Tikitune.webp</image>
+            <manufacturer>Tikitune</manufacturer>
+            <condition>New</condition>
+            <discount>5.0</discount> 
+        </va>
+    </SmartSpeakerCatalog>
+
+</ProductCatalog>
